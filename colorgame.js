@@ -23,6 +23,7 @@ for (let i = 0; i < squares.length; i++) {
       messageDisplay.textContent = "Correct";
     }
     else{
+    
       messageDisplay.textContent = "Try Again";
 
 
